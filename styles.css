@@ -1,10 +1,4 @@
-h1, h2 {
-    text-align: center;
-}
-
-header p, footer p {
-    text-align: center;
-}
+h1 { text-align: center; }
 
 body {
     background-color: antiquewhite;
