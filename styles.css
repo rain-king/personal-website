@@ -1,0 +1,21 @@
+h1, h2 {
+    text-align: center;
+}
+
+header p, footer p {
+    text-align: center;
+}
+
+body {
+    background-color: antiquewhite;
+    max-width: 700px;
+    margin: auto;
+}
+
+a.elink {
+    color: blue
+}
+
+a.ilink {
+    color: brown
+}
